@@ -2,7 +2,7 @@ package com.demo;
 
 /**
  * @Author:
- * @Description:
+ * @Description:结果实体类 最后以json文件的形式返回页面
  * @Data:Created in 15:44 2018/8/8
  */
 public class Greeting {
