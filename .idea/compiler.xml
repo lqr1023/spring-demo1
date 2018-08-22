@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Restful" />
+        <module name="Scheduling_Tasks" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="maven-spring" target="1.5" />
       <module name="Restful" target="1.7" />
+      <module name="Scheduling_Tasks" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
