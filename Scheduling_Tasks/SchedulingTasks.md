@@ -36,7 +36,7 @@ public class ScheduledTasks {
 Scheduled 注解定义了一个特殊的运行方法,指定了方法从开始运行到下一次运行的时间间隔。还有其他的选项如：fixedDelay，指定了完成任务后多长时间执行。可以使用@Scheduled(cron=". . .")来指定更复杂的定时任务。  
 补充：  
 https://blog.csdn.net/m0_37626813/article/details/78558010  
-@component （把普通pojo实例化到spring容器中，相当于配置文件中的<bean id="" class=""/>）  
+@component 把普通pojo实例化到spring容器中，相当于配置文件中的 ```<bean id="" class=""/>```  
 ### Enable Scheduling
 ```
 package hello;
