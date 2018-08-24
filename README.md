@@ -1,8 +1,8 @@
-# spring-demo1
+### spring-demo1
 ### 总结spring 学习笔记 示例来自spring官方网站
-## 测试idea编辑器使用git  
-## Consuming a RESTful Web Service  
-- jdk8 Lambda表达式  
+### 测试idea编辑器使用git  
+### Consuming a RESTful Web Service  
+- jdk8 Lambda表达式  https://www.cnblogs.com/franson-2016/p/5593080.html
 基本语法:
 (parameters) -> expression  
 (parameters) ->{ statements; }
