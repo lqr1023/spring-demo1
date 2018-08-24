@@ -23,5 +23,5 @@ x -> 2 * x
 (String s) -> System.out.print(s)  
 ```  
 
--RestTemplate 详解  http://www.54tianzhisheng.cn/2017/12/03/RestTemplate/#EXECUTE  
+- RestTemplate 详解  http://www.54tianzhisheng.cn/2017/12/03/RestTemplate/#EXECUTE  
 
