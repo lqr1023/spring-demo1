@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/Restful/pom.xml" />
         <option value="$PROJECT_DIR$/gsschedulingtasks/pom.xml" />
+        <option value="$PROJECT_DIR$/RESTfulWebService/pom.xml" />
+        <option value="$PROJECT_DIR$/Scheduling_Tasks/pom.xml" />
       </list>
     </option>
   </component>
