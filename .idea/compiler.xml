@@ -9,6 +9,7 @@
         <module name="Restful" />
         <module name="RESTfulWebService" />
         <module name="Scheduling_Tasks" />
+        <module name="SpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="Restful" target="1.7" />
       <module name="RESTfulWebService" target="1.8" />
       <module name="Scheduling_Tasks" target="1.8" />
+      <module name="SpringMVC" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
